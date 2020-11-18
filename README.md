@@ -25,3 +25,6 @@ gem install jekyll bundler
 # Launches site on localhost:4000
 bundle exec jekyll serve --livereload
 ```
+
+## Updating Assets
+- **Note:** use absolute paths like `app_icon: /assets/appicon.png` in `_config.yml`
