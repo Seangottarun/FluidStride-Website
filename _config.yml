@@ -11,7 +11,7 @@ presskit_download_link                    : https://seanwu.io                   
 
 app_icon                                  : /assets/ic_launcher_droplet.png # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : FluidStride                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Free (Coming Soon)                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Helping you prevent injuries and run faster. #Free 2D/3D running gait analysis to help you run faster!
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
