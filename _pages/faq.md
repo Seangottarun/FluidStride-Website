@@ -33,7 +33,7 @@ include_in_header: true
     Using recent research in machine learning and computer vision, FluidStride is
     able to take a video and detect the 2D locations of various joints and keypoints.
     We then use the 2D keypoints to determine their 3D position for better analytics.
-    Read our [How FluidStride Works](https://myfluidstride.com/howitworks/) section to learn more.
+    Read our [How FluidStride Works]({{ site.baseurl }}{% link _pages/howitworks.md %}) section to learn more.
 
     [/expand]
 
@@ -54,7 +54,7 @@ include_in_header: true
     conditions and/or contacting us to see how the issue can be resolved.
 
     If you're interested in seeing the actual research literature used for FluidStride,
-    see our selected list of [references](https://myfluidstride.com/references/).
+    see our selected list of [references]({{ site.baseurl }}{% link _pages/references.md %}).
 
     [/expand]
 
