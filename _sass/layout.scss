@@ -299,6 +299,20 @@ nav > ul li a:hover {
 	}
 }
 
+.formButtonsContainer{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: 100%;
+}
+
+.formButtonsContainer > a
+{
+  flex:1 1 auto;
+  text-align:center;
+  margin:15px;
+}
+
 .playStore {
 	height: 75px;
 	margin-right: 24px;
