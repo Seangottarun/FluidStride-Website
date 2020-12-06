@@ -23,18 +23,21 @@ help you enjoy running by keeping you training safely and effectively.
 Here at FluidStride, we're very much driven by passion rather than a desire for
 profit. If you have any feedback or suggestions, feel free to reach out!
 
+If you have time, we would really appreciate it if you could fill out our [survey](https://docs.google.com/forms/d/1NwSoW5W-vWgOdfknK5lVLexVOeUVa-9lj7vrwmPxHHA/)!
+
+
 # About Me
-Hi! My name is Sean and I'm an avid runner and a computer engineering student who
-started FluidStride as a hobby project.
+Hi! My name is Sean and I'm an avid runner and a computer engineering student. I
+started FluidStride as a hobby project based on my previous competitive running
+experience at the high school provincial level.
 
 I was inspired to start this project when I noticed some imbalances in my own running
-form. Furthermore, I mainly trained independently and felt like I missed out on the
+gait. Furthermore, I mainly trained independently and felt like I missed out on the
 potential development and feedback that I could have gotten with a regular coach.
 
-To help other runners and running coaches, I decided to start FluidStride to see
-if there were ways to train smarter using recent computer vision research. So far
-the results have been promising and I hope to have a first version of FluidStride
-available to the public in January 2021!
+I decided to start FluidStride to see if there were ways to train smarter using
+recent computer vision research. So far the results have been promising and I
+hope to have a first version of FluidStride available to the public in January 2021!
 
 Happy running!
 
