@@ -11,8 +11,10 @@ include_in_header: true
 ## `Initial Release`
 
 # **Version 0.1.0**
+**Release Date:** Jan 2021 (Expected)
 
-First version of FluidStride for live public beta! Run basic 2D analysis with form annotations, running stats, and offline processing.
+First version of FluidStride for closed beta! Run basic 2D analysis with form
+annotations, running stats, and offline processing.
 
 #### What's New
 
