@@ -9,11 +9,10 @@ FluidStride is a running gait analysis app that uses modern computer vision and
 machine learning to turn your phone into a virtual running coach! By analyzing your
 running gait, you can improve your efficiency and identify potential injury risks.
 
-Regardless of your fitness level or where you live, we believe that running
-is a sport for everyone! We want to keep running fun, but also put science and
-engineering into making it easier to run faster. Smartphones are some of the most
-accessible devices around the world and can be very powerful. However, we believe
-you can do more with your phone than just basic timing and distance measurement.
+Regardless of your fitness level or where you live, running is a sport for everyone!
+We want to keep running fun and help you run faster using science and engineering.
+Modern smartphones are some of the most accessible and powerful devices around the world.
+We believe you can do more with your phone than just basic timing and distance measurement.
 
 Running is not just about stats and how long it took you to get from point A to
 point B. It's also about how you got there and the journey you took. FluidStride

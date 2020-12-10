@@ -46,8 +46,8 @@ include_in_header: true
     our kinematic analysis results can be used to identify potential injury risks.
 
     Due to limitations of smartphones and existing computer vision models, it is
-    also important to note that our kinematic analysis results may also be inaccurate.
-    We are also actively working on improving accuracy and developing improved
+    important to note that our kinematic analysis results may be inaccurate.
+    We are actively working on improving accuracy and developing improved
     algorithms. Furthermore, after every analysis we provide a "confidence score"
     to roughly indicate how accurate the results may be. If your analysis has
     a low confidence score, we recommend trying to find an area with better testing
@@ -62,8 +62,8 @@ include_in_header: true
 
     [expand]
 
-    Currently, FluidStride only supports Android phones newer than Android 5.0 (Lollipop)
-    which was released in 2014. Most recent Android phones should work, but if you
+    Currently, FluidStride only supports Android phones newer than Android 5.0 (Lollipop).
+    Most recent Android phones released after 2015 should work, but if you
     run into issues, feel free to contact us.
 
     There are plans to develop an iOS version, but no version is currently available.
