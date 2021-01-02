@@ -8,9 +8,21 @@
 Install [`ubuntu_rvm`](https://github.com/rvm/ubuntu_rvm)
 ```bash
 sudo apt-get install software-properties-common
+# Run next few lines in new terminal
 sudo apt-add-repository -y ppa:rael-gc/rvm
-sudo apt update
-sudo apt install rvm
+sudo apt-get update
+sudo apt-get install rvm
+```
+
+If you get `unable to locate package`, check if the package is available for your version.
+```bash
+cat /var/lib/apt/lists/ppa.launchpad.net_rael-gc_*_Packages | grep "Package:" | sort | uniq
+```
+
+#### macOS
+Install [`rvm`](https://rvm.io/rvm/install)
+```bash
+\curl -sSL https://get.rvm.io | bash -s stable --ruby
 ```
 
 #### macOS
