@@ -200,6 +200,32 @@ nav > ul li a:hover {
 .subPageHeaderBackground nav > ul li a:hover {
 	color: rgba(#000, 1);
 }
+// 404 Page Title
+.FourOhFour {
+	grid-column: span 12;
+  color: $app-title-color;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 200px;
+}
+@media only screen and (max-width: 768px) {
+	.FourOhFour {
+		grid-area: c;
+	}
+}
+.FourOhFour > h1 {
+	font-size: 5rem;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+.FourOhFour > p {
+  font-size: 3rem;
+	margin-top: 20px;
+}
 // App Title, Price, Description and Links
 
 .appInfo {

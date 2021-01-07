@@ -8,6 +8,17 @@
         <div class="headerBackground">
             <div class="container">
                 {% include header.html %}
+                {% if page.url == "/404.html" %}
+                
+                <div class="FourOhFour">
+                    <h1 class="FourOhFour">
+                        404 Error
+                    </h1>
+                    <p class="FourOhFour">Page not found!</p>
+                </div>
+
+                {% else %}
+
                 <div class="iphonePreview">
 
                     <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 0 0" style="position: absolute;">
@@ -71,13 +82,13 @@
                         <a class="playStoreLink" href="{{site.playstore_link}}"><img class="playStore" src="assets/playstore.png"></a>
                         {% endif %} -->
                         <div class="formButtonsContainer">
-                          <a href="https://docs.google.com/forms/d/19nHCokOTdHjToNe28Er1na6AZVDMr1Ik9kvnCD5HiHI/" target="_blank">
-                              <button type="button" class="btn btn-lg btn-block btn-primary">Sign up for the beta!</button>
-                          </a>
+                            <a href="https://docs.google.com/forms/d/19nHCokOTdHjToNe28Er1na6AZVDMr1Ik9kvnCD5HiHI/" target="_blank">
+                                <button type="button" class="btn btn-lg btn-block btn-primary">Sign up for the beta!</button>
+                            </a>
 
-                          <a href="https://docs.google.com/forms/d/1NwSoW5W-vWgOdfknK5lVLexVOeUVa-9lj7vrwmPxHHA/" target="_blank">
-                              <button type="button" class="btn btn-lg btn-block btn-primary">Give us feedback!</button>
-                          </a>
+                            <a href="https://docs.google.com/forms/d/1NwSoW5W-vWgOdfknK5lVLexVOeUVa-9lj7vrwmPxHHA/" target="_blank">
+                                <button type="button" class="btn btn-lg btn-block btn-primary">Give us feedback!</button>
+                            </a>
                         </div>
 
                         <div class="scroll-down">
@@ -90,6 +101,7 @@
                 </div>
                 {% include features.html %}
                 {% include appstoreimages.html %}
+                {% endif %}
             </div>
             {% include footer.html %}
         </div>
