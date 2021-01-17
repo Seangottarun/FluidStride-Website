@@ -9,7 +9,7 @@
             <div class="container">
                 {% include header.html %}
                 {% if page.url == "/404.html" %}
-                
+
                 <div class="FourOhFour">
                     <h1 class="FourOhFour">
                         404 Error
@@ -83,11 +83,11 @@
                         {% endif %} -->
                         <div class="formButtonsContainer">
                             <a href="https://docs.google.com/forms/d/19nHCokOTdHjToNe28Er1na6AZVDMr1Ik9kvnCD5HiHI/" target="_blank">
-                                <button type="button" class="btn btn-lg btn-block btn-primary">Sign up for the beta!</button>
+                                <button type="button" class="btn btn-lg btn-block btn-primary" onclick="plausible('BetaSignup')">Sign up for the beta!</button>
                             </a>
 
                             <a href="https://docs.google.com/forms/d/1NwSoW5W-vWgOdfknK5lVLexVOeUVa-9lj7vrwmPxHHA/" target="_blank">
-                                <button type="button" class="btn btn-lg btn-block btn-primary">Give us feedback!</button>
+                                <button type="button" class="btn btn-lg btn-block btn-primary" onclick="plausible('Survey')">Give us feedback!</button>
                             </a>
                         </div>
 
