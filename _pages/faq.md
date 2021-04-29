@@ -79,9 +79,9 @@ include_in_header: true
     FluidStride is currently in development and we are conducting market research to
     see what features users want in our first version! Here is a brief outline of our
     schedule.
-    1. Closed beta - Jan 2021
-      - Only available to people who sign up before Dec 31, 2020
-    2. Official Android release - Feb 2021
+    1. Closed beta - Summer 2021
+      - Only available to people who sign up before May 31, 2020
+    2. Official Android release - Fall 2021
     3. iOS release - TBD
 
     [/expand]

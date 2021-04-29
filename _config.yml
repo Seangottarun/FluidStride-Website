@@ -134,6 +134,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - "*.bak"
 
 collections:
   pages:

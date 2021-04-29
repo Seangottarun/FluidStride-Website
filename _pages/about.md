@@ -36,7 +36,7 @@ potential development and feedback that I could have gotten with a regular coach
 
 I decided to start FluidStride to see if there were ways to train smarter using
 recent computer vision research. So far the results have been promising and I
-hope to have a first version of FluidStride available to the public in January 2021!
+hope to have a first version of FluidStride available to the public in Summer 2021!
 
 Happy running!
 
