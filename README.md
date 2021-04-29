@@ -60,3 +60,8 @@ bundle exec jekyll serve --livereload
 
 ## Updating Assets
 - **Note:** use absolute paths like `app_icon: /assets/appicon.png` in `_config.yml`
+
+# Credits
+- Jekyll
+- FontAwesome
+- [emilbaehr/automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page)
